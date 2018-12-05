@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/jordan/build/static/js/runtime~main.a2bb69cb.js"
   },
   {
-    "revision": "ecb048c8555015546a9c",
-    "url": "/jordan/build/static/js/main.ecb048c8.chunk.js"
+    "revision": "7343ad27ff0082d740f4",
+    "url": "/jordan/build/static/js/main.7343ad27.chunk.js"
   },
   {
     "revision": "82dafdb578ba27673946",
     "url": "/jordan/build/static/js/1.82dafdb5.chunk.js"
   },
   {
-    "revision": "ecb048c8555015546a9c",
+    "revision": "7343ad27ff0082d740f4",
     "url": "/jordan/build/static/css/main.d1c570a5.chunk.css"
   },
   {
-    "revision": "d5e43f8fdda979b26369ba3166d9eabd",
+    "revision": "532282f75decab596a1bb730ea76b865",
     "url": "/jordan/build/index.html"
   }
 ];
